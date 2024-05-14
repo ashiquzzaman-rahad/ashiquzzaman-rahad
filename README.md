@@ -33,8 +33,6 @@ Here are some ideas to get you started:
       <li><a href="https://github.com/ashiquzzaman-rahad/class-_management_system">Class Management system: Solution for students and teachers!</a></li>
       <li><a href="https://github.com/ashiquzzaman-rahad/CalculatorJS">A simple calculator</a></li>
     </ul>
-  </li>
-  <li></li>
   <li>A basic Android project- <a href="https://github.com/ashiquzzaman-rahad/CoffeeCounter">CoffeeCounter:Know your amount of coffee!</a></li>
   <li><p>A game with pygame module- <a href="https://github.com/ashiquzzaman-rahad/pythonSnake">Snake game</a></p></li>
   <li><p>My portfolio website - <a href = "https://github.com/ashiquzzaman-rahad/portfolio">All about Rahad</a></p></li>
