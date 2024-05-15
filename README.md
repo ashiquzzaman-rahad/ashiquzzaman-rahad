@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Introduction
+#### Introduction
 <P>Assalamualikum! My name is M.d. Ashiquzzaman Rahad. I was born and brought up in Khulna, Bangladesh. I am a student. I am enthusiastic about coding, especially in learning new languages. I love watching movies and reading books. I also listen to audio stories a lot. I love being around with my family and friends.</P>
 
-## Skills
+#### Skills
 <ul>
   <li>I have learnt some basic programming languages like c, c++, java, python, javascript, etc.</li>
   <li>I have done some basic web development with HTML, CSS, javascript, and PHP.</li>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li>I have some management skills.</li>
 </ul>
 
-## Projects
+#### Projects
 <ul>
   <li><b>Web projects-</b>
     <ul>
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 </ul>
 
 
-## Education
+#### Education
 <p>I have completed my secondary Schooling from Khulna Zilla School, Khulna, and higher secondary schooling from Govt. M. M. City College, Khulna. Currently, I'm studying for my B.Sc. in Computer Science & Engineering from Khulna University, Khulna.</p>
 
-## Experience
+#### Experience
 <ul>
   <li>I have taken part in an open course by Stanford University (Code in Place).</li>
   <li>I have managed some internal events of my department in my university.</li>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <li>I have taken part in some international writing competitions.</li>
 </ul>
 
-## Contact info
+#### Contact info
 <p>Email: <a href="mailto:ashiqurahad.007@gmail.com">ashiquerahad.007@gmail.com</a></p><br>
 <p>Facebook: <a href="https://www.facebook.com/ashiquzzaman.rahad/">M.d. Ashiquzzaman Rahad</p><br>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/m-d-ashiquzzaman-rahad-153243227/">M.d. Ashiquzzaman Rahad</p><br>
